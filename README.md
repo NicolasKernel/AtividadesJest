@@ -1,0 +1,1 @@
+Este repositório reúne a implementação de 20 funções que cobrem principalmente operações matemáticas simples até lógica de negócios. O foco principal foi o desenvolvimento de código e o aprendizado sobre o funcionamento de Testes Unitários com framework Jest.
